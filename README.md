@@ -50,7 +50,7 @@ Massive respect to the amazing contributors who made this archive possible:
 * 📦 **Modern builds (Season 31+)** – [Repressoh](https://github.com/Repressoh/Fortnite-iOS-Archive?tab=readme-ov-file)
 * 🛠️ **Modded SP/MP builds** – [Mineluke](https://drive.google.com/drive/folders/1XgsoBvCe-sZ3T3TpCrg3ALqGbawXnY7h)
 * 🔍 **Manifest + download methods** – [tevtongermany](https://discord.com/users/487615901613686784) & [Th3dryZ69\_](https://discord.com/users/382930404249698304)
-* 🛠️ **Maintaining** -  [mtbr29](https://github.com/mtbr29) [AERISDEV](https://github.com/NotAufgeladen)
+* 🛠️ **Maintaining** -  [mtbr29](https://github.com/mtbr29) & [AERISDEV](https://github.com/NotAufgeladen)
 
 ---
 
